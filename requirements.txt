@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+streamlit
+crewai
+crewai-tools
+python-dotenv
+litellm
+reportlab
+openpyxl
